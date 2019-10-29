@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CLFont'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '手机端字体适配'
 
 # This description is used to generate tags and improve search results.

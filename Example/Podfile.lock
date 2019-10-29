@@ -1,0 +1,16 @@
+PODS:
+  - CLFont (1.0.0)
+
+DEPENDENCIES:
+  - CLFont (from `../`)
+
+EXTERNAL SOURCES:
+  CLFont:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CLFont: 537ed7a16fececa8cd116a9626790658d6dcac31
+
+PODFILE CHECKSUM: 7c9ddb5ca79827fdc1b0148496517c9405b5ecb4
+
+COCOAPODS: 1.8.4

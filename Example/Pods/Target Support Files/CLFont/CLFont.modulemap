@@ -1,0 +1,6 @@
+framework module CLFont {
+  umbrella header "CLFont-umbrella.h"
+
+  export *
+  module * { export * }
+}

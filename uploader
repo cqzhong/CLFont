@@ -18,4 +18,4 @@ git tag -m $tagMsg $tag
 
 git push --tags
 
-pod trunk push --allow-warnings
+pod trunk push CLFont.podspec --allow-warnings
